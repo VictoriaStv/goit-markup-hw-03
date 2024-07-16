@@ -254,6 +254,7 @@ margin: 0 auto;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
+  margin-bottom: 72px;
 }
 
 .team-text-h {
@@ -263,7 +264,7 @@ margin: 0 auto;
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 
 .team-text-p {
