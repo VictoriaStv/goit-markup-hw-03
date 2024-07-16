@@ -197,7 +197,6 @@ margin: 0 auto;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
-  margin-bottom: 8px;
 }
 
 .features-text-h {
@@ -206,6 +205,7 @@ margin: 0 auto;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 .features-text-p {
@@ -254,7 +254,6 @@ margin: 0 auto;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
-  margin-bottom: 72px;
 }
 
 .team-text-h {
@@ -292,7 +291,7 @@ margin: 0 auto;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 .portfolio-items {
    border-bottom:   1px solid #E7E9FC;
