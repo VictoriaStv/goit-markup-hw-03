@@ -182,11 +182,11 @@ margin: 0 auto;
 .features-list{
   display: flex;
   gap: 24px;
-  width: calc((100% - 72px) / 4); 
 }
 
 .features-items{
   border:  1px solid #000000;
+    width: calc((100% - 72px) / 4); 
 }
 
 .features-title {
@@ -277,6 +277,13 @@ margin: 0 auto;
 /*Section 4/ Portfolio*/
 .portfolio-list{
   display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
+
+.portfolio-items{
+  display: flex;
   gap: 24px;
   row-gap: 48px;
   flex-direction: row;
@@ -294,7 +301,7 @@ margin: 0 auto;
   text-transform: capitalize;
   margin-bottom: 72px;
 }
-.portfolio-items {
+.portfolio-border {
    border-bottom:   1px solid #E7E9FC;
    border-left:   1px solid #E7E9FC;
    border-right:   1px solid #E7E9FC;
