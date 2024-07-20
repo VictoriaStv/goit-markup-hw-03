@@ -184,7 +184,6 @@ margin: 0 auto;
 
 .features-items{
   width: calc((100% - 72px) / 4);
-  border:  1px solid #000000;
 }
 
 .features-title {
